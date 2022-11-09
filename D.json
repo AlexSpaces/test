@@ -1,16 +1,16 @@
 {
 	"META": {
-		"repoName": "scarlet modded",
-		"repoIcon": "https://usescarlet.com/img/icon.png"
+		"repoName": "BloonsTD6",
+		"repoIcon": "https://play-lh.googleusercontent.com/_X1BpC-otMswvnF20mcVHIOwCVFVU6l9ZK6VuiczGmVZhMd86LPe_HxED-n_FGcd1zlC=w240-h480-rw"
 	},
 	"Tweaked": [{
-		"name": "uYou",
-		"version": "17.36.4",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.36.4-2.1/uYouPlus_17.36.4_2.1.ipa",
+		"name": "BTD6",
+		"version": "33.3",
+		"down": https://github.com/AlexSpaces/test/releases/download/Whatevern/Bloons.20TD.206.20Hack.20No.20Jailbreak.20Cheats.2033.3.20Hacked.20IPA.20by.20iOSGods.com.ipa",
 		"category": "Tweaked Apps",
-		"description": "True ad-less YouTube...",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
+		"description": "Hacked BTD6",
+		"bundleID": "com.ninjakiwi.bloonstd6",
+		"appstore": "com.ninjakiwi.bloonstd6",
 		"contact": {
 			"web": "https://repo.twickd.com",
 			"twitter": "https://twitter.com/twickdrepo"
